@@ -1,6 +1,7 @@
 # Buffon's Needle
 
 Bogazici University - Fundementals of Particle-Based Simulations CMPE 49G
+
 This Python script simulates Buffon's Needle experiment using a Monte Carlo method.
 
 ## Usage
